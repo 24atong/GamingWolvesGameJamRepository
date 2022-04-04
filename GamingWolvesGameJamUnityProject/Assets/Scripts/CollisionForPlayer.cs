@@ -8,7 +8,6 @@ public class CollisionForPlayer : MonoBehaviour
     {
         if (collisionInfo.collider.tag == "Obstacle" || collisionInfo.collider.tag == "End")
         {
-            pmovement.enabled = false;
             FindObjectOfType<GameManagerScript>().EndGame();
         }
     }
