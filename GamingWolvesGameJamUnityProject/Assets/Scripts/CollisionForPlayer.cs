@@ -1,5 +1,9 @@
 using UnityEngine;
 
+//*************************************
+//      ONLY FOR TESTING PHASE
+//*************************************
+
 public class CollisionForPlayer : MonoBehaviour
 {
     public Movement pmovement; //reference to "Movement" script"
