@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1718,10 +1718,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 7759804207622513742, guid: 1584be0dcfe89354cac155143bd6cce2, type: 3}
-  objectCount: 50
-  spawnRadius: 30
-  spawnCollisionCheckRadius: 1
-  moreAsteroidsDist: 30
+  objectCount: 2
+  spawnCollisionCheckRadius: 1.5
+  AsteroidFrequency: 60
+  tta: 10
 --- !u!114 &1469844020
 MonoBehaviour:
   m_ObjectHideFlags: 0
