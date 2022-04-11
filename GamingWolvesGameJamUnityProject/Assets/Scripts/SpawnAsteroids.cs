@@ -7,7 +7,7 @@ public class SpawnAsteroids : MonoBehaviour
     // Start is called before the first frame update
 
     public Transform prefabToSpawn;
-    public int objectCount = 50;
+    public int objectCount = 1000;
     public float spawnCollisionCheckRadius;
     public int AsteroidFrequency = 10;
     public int tta = 10;
