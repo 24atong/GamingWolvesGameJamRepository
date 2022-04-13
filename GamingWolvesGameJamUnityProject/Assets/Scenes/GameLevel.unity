@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -165,7 +165,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &319833985
 GameObject:
@@ -232,10 +232,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 12
 =======
   m_RootOrder: 10
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 11
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &349596504
 GameObject:
@@ -430,7 +434,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 200}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &508780859
 GameObject:
@@ -600,7 +604,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 200}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &576673331
 GameObject:
@@ -793,7 +797,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &963194225
 GameObject:
@@ -877,7 +881,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
@@ -1179,10 +1183,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 14
 =======
   m_RootOrder: 12
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 13
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1054327501
 GameObject:
@@ -1283,10 +1291,14 @@ Transform:
   - {fileID: 576673332}
   m_Father: {fileID: 0}
 <<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 10
 =======
   m_RootOrder: 8
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 9
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1054327506
 Rigidbody:
@@ -1533,7 +1545,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 50}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 =======
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
@@ -1632,10 +1644,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 13
 =======
   m_RootOrder: 11
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 12
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1355636486
 MonoBehaviour:
@@ -1742,7 +1758,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 400}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1469844017
 GameObject:
@@ -1775,10 +1791,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 11
 =======
   m_RootOrder: 9
 >>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 10
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1469844019
 MonoBehaviour:
@@ -1904,7 +1924,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 50}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &1622644690
 GameObject:
@@ -1999,7 +2019,7 @@ Transform:
   m_LocalScale: {x: 30, y: 0.5, z: 400}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1647361803
 GameObject:
@@ -2190,7 +2210,11 @@ RectTransform:
   - {fileID: 453181858}
   - {fileID: 203461049}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 13
+=======
+  m_RootOrder: 14
+>>>>>>> parent of 0e9a9a8 (bug fixes):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
