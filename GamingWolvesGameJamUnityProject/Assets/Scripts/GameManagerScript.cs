@@ -14,6 +14,7 @@ public class GameManagerScript : MonoBehaviour
     public void CompleteLevel()
     {
         completeLevelUI.SetActive(true);
+        FindObjectOfType<AudioManager>().Play("LevelComplete");
     }
 
     public void EndGame()

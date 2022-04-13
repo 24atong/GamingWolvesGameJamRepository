@@ -21,10 +21,12 @@ public class PlayerScript : MonoBehaviour
         if (collisionInfo.collider.tag == "Obstacle" || collisionInfo.collider.tag == "Boundary")
         {
             TakeDamage(1); 
+            FindObjectOfType<AudioManager>().Play("Damage");
         }
         if (currentHealth==0)
         {
             FindObjectOfType<GameManagerScript>().EndGame();
+            FindObjectOfType<AudioManager>().Play("PlayerDeath");
         }
     }
     
