@@ -231,7 +231,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 12
+=======
+  m_RootOrder: 10
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &349596504
 GameObject:
@@ -384,7 +388,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4a81d6c5819c847a6a46c6ecfe84c60a, type: 2}
+  - {fileID: 2100000, guid: 255931edd68b7f84db351b638db263cc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -554,7 +558,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f7244c98095f64982b9ac3654f88d268, type: 2}
+  - {fileID: 2100000, guid: 255931edd68b7f84db351b638db263cc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1174,7 +1178,11 @@ Transform:
   m_LocalScale: {x: 30, y: 5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 14
+=======
+  m_RootOrder: 12
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1054327501
 GameObject:
@@ -1231,7 +1239,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7d523d0b995ed8446b41769c2f7cf2d1, type: 2}
+  - {fileID: 2100000, guid: 8ca1bb9cbde1dde49a0d3cd28210ace0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1260,7 +1268,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054327501}
-  m_Mesh: {fileID: 4300000, guid: 3fbde013fc1ae0a45a2afb111678bdee, type: 3}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1054327505
 Transform:
   m_ObjectHideFlags: 0
@@ -1274,7 +1282,11 @@ Transform:
   m_Children:
   - {fileID: 576673332}
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 10
+=======
+  m_RootOrder: 8
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1054327506
 Rigidbody:
@@ -1304,7 +1316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ec1d74ae371e6d4fb212f14bc2a88bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 15
   rb: {fileID: 1054327506}
 --- !u!114 &1054327508
 MonoBehaviour:
@@ -1334,6 +1346,7 @@ MonoBehaviour:
   maxHealth: 5
   currentHealth: 0
   healthBar: {fileID: 1020129758}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
 --- !u!1 &1169271193
 GameObject:
   m_ObjectHideFlags: 0
@@ -1522,6 +1535,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+=======
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
 --- !u!1 &1355636481
 GameObject:
   m_ObjectHideFlags: 0
@@ -1616,7 +1631,11 @@ Transform:
   m_LocalScale: {x: 30, y: 5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 13
+=======
+  m_RootOrder: 11
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1355636486
 MonoBehaviour:
@@ -1755,7 +1774,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   m_RootOrder: 11
+=======
+  m_RootOrder: 9
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1469844019
 MonoBehaviour:
@@ -1770,10 +1793,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 7759804207622513742, guid: 1584be0dcfe89354cac155143bd6cce2, type: 3}
-  objectCount: 2
-  spawnCollisionCheckRadius: 1.5
-  AsteroidFrequency: 60
-  tta: 10
+  objectCount: 50
+  spawnRadius: 30
+  spawnCollisionCheckRadius: 1
+  moreAsteroidsDist: 30
 --- !u!114 &1469844020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1934,7 +1957,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 443d49db2da184f60b9a1ca1ddca60f8, type: 2}
+  - {fileID: 2100000, guid: 255931edd68b7f84db351b638db263cc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2056,6 +2079,7 @@ CanvasRenderer:
 --- !u!1001 &1926022854
 PrefabInstance:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD:GamingWolvesGameJamUnityProject/Assets/Scenes/GameLevel.unity
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
@@ -2110,3 +2134,148 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dfd731dbdbb2f4745b6cb1069d7a8401, type: 3}
+=======
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802340856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1802340859
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802340856}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1802340860
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802340856}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 453181858}
+  - {fileID: 203461049}
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!1 &1976083637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1976083638}
+  - component: {fileID: 1976083640}
+  - component: {fileID: 1976083639}
+  m_Layer: 5
+  m_Name: Level
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1976083638
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976083637}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 453181858}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 2, y: 16}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1976083639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976083637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 27
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 298
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'LEVEL
+
+'
+--- !u!222 &1976083640
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976083637}
+  m_CullTransparentMesh: 1
+>>>>>>> parent of 2ae0b3b (Merge branch 'main' of https://github.com/24atong/GamingWolvesGameJamRepository):GamingWolvesGameJamUnityProject/Assets/Scenes/SampleScene.unity
