@@ -11,8 +11,12 @@ public class GameManagerScript : MonoBehaviour
 
     public void CompleteLevel()
     {
+<<<<<<< HEAD
        SceneManager.LoadScene(1);
         
+=======
+        completeLevelUI.SetActive(true);
+>>>>>>> parent of c06f2d5 (added sound :))
     }
 
     public void EndGame()
