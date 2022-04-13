@@ -7,10 +7,11 @@ public class SpawnAsteroids : MonoBehaviour
     // Start is called before the first frame update
 
     public Transform prefabToSpawn;
-    public int objectCount = 50;
-    public float spawnRadius = 5;
+    public int objectCount = 1000;
     public float spawnCollisionCheckRadius;
-    public int moreAsteroidsDist = 0;
+    public int AsteroidFrequency = 10;
+    public int tta = 10;
+    //time til asteroids
     void Start()
     {
         SummonAsteroids();
@@ -20,9 +21,10 @@ public class SpawnAsteroids : MonoBehaviour
     {
         for (int loop = 0; loop < objectCount; loop++)
         {
-            Vector3 spawnPoint = (transform.position + Random.insideUnitSphere * spawnRadius);
-            spawnPoint.z += 30;
+            Vector3 spawnPoint;
+            spawnPoint.z = transform.position.z + 45;
             spawnPoint.y = 2;
+            spawnPoint.x = Random.Range(-15.0f, 15.0f);
             if (!Physics.CheckSphere(spawnPoint, spawnCollisionCheckRadius))
             {
                 Instantiate(prefabToSpawn, spawnPoint, Random.rotation);
@@ -32,11 +34,12 @@ public class SpawnAsteroids : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.z >= moreAsteroidsDist)
+        if (tta >= AsteroidFrequency)
         {
             SummonAsteroids();
-            moreAsteroidsDist += 30;
+            tta = 0;
         }
-        
+
+        tta++;
     }
 }
