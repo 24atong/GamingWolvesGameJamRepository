@@ -10,7 +10,7 @@ public class GameManagerScript : MonoBehaviour
     public float restartDelay = 2f;
     
     public GameObject completeLevelUI;
-
+        
     public void CompleteLevel()
     {
         completeLevelUI.SetActive(true);
@@ -26,7 +26,7 @@ public class GameManagerScript : MonoBehaviour
         }
     }
  
-    void Restart()
+    public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
