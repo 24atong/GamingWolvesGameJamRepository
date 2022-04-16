@@ -10,11 +10,13 @@ public class GameManagerScript : MonoBehaviour
     public float restartDelay = 2f;
     
     public GameObject completeLevelUI;
+    public GameObject Player;
         
     public void CompleteLevel()
     {
         completeLevelUI.SetActive(true);
         FindObjectOfType<AudioManager>().Play("LevelComplete");
+        Player.gameObject.SetActive(false);
     }
 
     public void EndGame()

@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 {
     
-    public int maxHealth = 10;
+    public int maxHealth = 5;
     public int currentHealth;
 
     public HealthBarScript healthBar;
