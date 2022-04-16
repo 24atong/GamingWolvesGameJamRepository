@@ -7,9 +7,9 @@ public class SpawnAsteroids : MonoBehaviour
     // Start is called before the first frame update
 
     public Transform prefabToSpawn;
-    public int objectCount = 1000;
+    public int objectCount = 7;
     public float spawnCollisionCheckRadius;
-    public int AsteroidFrequency = 10;
+    public int AsteroidFrequency = 20;
     public int tta = 10;
     //time til asteroids
     void Start()
@@ -22,7 +22,7 @@ public class SpawnAsteroids : MonoBehaviour
         for (int loop = 0; loop < objectCount; loop++)
         {
             Vector3 spawnPoint;
-            spawnPoint.z = transform.position.z + 45;
+            spawnPoint.z = transform.position.z + 55;
             spawnPoint.y = 2;
             spawnPoint.x = Random.Range(-15.0f, 15.0f);
             if (!Physics.CheckSphere(spawnPoint, spawnCollisionCheckRadius))
